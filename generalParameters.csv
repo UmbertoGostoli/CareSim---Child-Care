@@ -1,0 +1,2 @@
+initialPop,numberClasses,numCareLevels,startYear,endYear,thePresent,statsCollectFrom,regressionCollectFrom,implementPoliciesFromYear,loadFromFile,verboseDebugging,doGraphs,saveChecks,getCheckVariablesAtYear,multiprocessing,numberProcessors,numRepeats,timeDiscountingFactor,numberScenarios,numberRuns,numberPolicies,outputYear
+600,5,5,1860,2040,2018,1990,1980,2020,False,False,False,True,2015,False,3,1,0.03,1,1.0,1,1940
